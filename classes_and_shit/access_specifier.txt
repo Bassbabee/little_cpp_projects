@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------------------------------
+Access specifier	|Access specifier 			|Access specifier			|Access specifier
+in base class		|when inherited publicly	|when inherited privately	|when inherited protectedly
+--------------------|---------------------------|---------------------------|--------------------------
+Public 				|Public 					|Private 					|Protected
+--------------------|---------------------------|---------------------------|--------------------------
+Protected 			|Protected 					|Private 					|Protected
+--------------------|---------------------------|---------------------------|--------------------------
+Private 			|Inaccessible 				|Inaccessible 				|Inaccessible
+-------------------------------------------------------------------------------------------------------
