@@ -1,0 +1,7 @@
+#include <string>
+
+for
+
+std::string myName{ "Alex" };
+myName = "John";
+cout << myName.length();
